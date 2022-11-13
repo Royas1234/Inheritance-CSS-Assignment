@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+body{
+    background-color: beige;
+    
+    
+}
+
+header{
+        
+        line-height: 65px;
+        font-size: 1.5em;
+        font-weight: 300;
+        color:peru;
+        padding: 20px;
+        margin: 10px;
+        margin-right: 30px;
+        text-align: center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ header, h1:hover{
+    cursor: pointer;
+}
+/* .main-section{ 
+    background-color:darksalmon;
+    padding:20px;
+    margin:10px ;
+    margin-top: -20px;
+    line-height: 40px;
+    font-size: 1.4em;
+    margin-right: 30px;
+    text-align: left;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}*/
+.pargh1{
+    text-align: center;
+    font-size: 1.7em;
+    color:forestgreen;
+    margin-bottom: -25px;
+    font-weight: bold;
+
+}
+.ol_list_Class_parent{
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 1.3em;
+    padding: 10px;
+    border: 3px dotted darkolivegreen;
+    padding-left: 25px;
+    padding-right: 10px;
+    margin: 30px;
+    line-height: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: lower-roman;
+    list-style-position: outside;
+}
+#ol_list_Id_parent{
+    margin-left: 20px ;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5em;
+    border: 3px solid firebrick;
+    padding: 12px 15px 12px 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+    line-height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+.class_ol_list_2{
+    color:brown;
+  
+    
+}
+#id_ol_list_2{
+    color:darkgoldenrod;
+   
+}
+.pargh2{
+    text-align: center;
+    font-size: 1.7em;
+    color:blueviolet;
+    margin-bottom: -25px;
+    font-weight: bold;
+
+}
+.ul_list-Class_parent{
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 1.3em;
+    padding: 10px;
+    border: 3px dotted goldenrod;
+    padding-left: 25px;
+    padding-right: 10px;
+    margin: 30px;
+    line-height: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style-type: lower-roman;
+}
+#ul_list-Id_parent{
+    margin-left: 20px ;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5em;
+    border: 3px solid black;
+    padding: 12px 15px 12px 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+    line-height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: circle;
+}
+.class_ul_list_1{
+    color:coral;
+  
+    
+}
+#id_ul_list_1{
+    color:blue;
+
+   
+}
